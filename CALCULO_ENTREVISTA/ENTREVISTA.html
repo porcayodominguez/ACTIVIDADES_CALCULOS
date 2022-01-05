@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>ENTREVISTA</title>
+    <link rel="stylesheet" href="estiloentrevista.css">
+  </head>
+  <body>
+    <div class="contenedor-principal">
+      <h2 class="contenedor-titulo">INFORMACIÓN SOBRE LOS PUNTOS DE SU ENTREVISTA.</h2>
+      <form class="contenedor-form" action="ENTREVISTA.php" method="post">
+        <label for="" class="contenedor-label"><h2>Hola bienvenido. En este portal obtendrá su información de los puntos obtenidos
+          de la entrevista. FAVOR DE INGRESAR SUS DATOS CORRECTAMENTE.</h2></label>
+       <label for="" class="contenedor-label"><br>Seleccione su nivel educativo:</label>
+        <select name="nivel"id="nivel">
+        <option value="1">Bachillerato</option><option value="2">Tecnológico</option><option value="3">Profesionales</option><option value="4">Postgrado</option>
+        </select>
+        <label for="" class="contenedor-label"> Ingrese su edad:</label>
+        <input type="text" name="edad" class="contenedor-input">
+        <label for="" class="contenedor-label">Seleccione su estado civil:</label>
+        <select name="estado"id="estado">
+        <option value="1">Soltero</option><option value="2">Casado</option><option value="3">Unión Libre</option><option value="4">Separado</option>
+        </select>
+        <input type="submit" class="contenedor-submit" name="" value="SELECCIONE AQUI PARA CALCULAR SUS PUNTOS">
+    </div>
+  </body>
+</html>

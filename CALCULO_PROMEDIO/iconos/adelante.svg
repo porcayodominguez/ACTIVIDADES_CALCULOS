@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="24px"
+   version="1.1"
+   viewBox="0 0 24 24"
+   width="24px"
+   id="svg1545"
+   sodipodi:docname="adelante.svg"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
+  <metadata
+     id="metadata1549">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview1547"
+     showgrid="false"
+     inkscape:zoom="9.8333333"
+     inkscape:cx="12.101695"
+     inkscape:cy="12"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1545" />
+  <title
+     id="title1535" />
+  <desc
+     id="desc1537" />
+  <defs
+     id="defs1539" />
+  <g
+     fill="none"
+     fill-rule="evenodd"
+     id="miu"
+     stroke="none"
+     stroke-width="1"
+     style="fill:#76c221;fill-opacity:1">
+    <g
+       id="Artboard-1"
+       transform="translate(-467.000000, -191.000000)"
+       style="fill:#76c221;fill-opacity:1">
+      <g
+         id="slice"
+         transform="translate(215.000000, 119.000000)"
+         style="fill:#76c221;fill-opacity:1" />
+      <path
+         d="M468,202.5 C468,196.148725 473.148725,191 479.5,191 C485.851275,191 491,196.148725 491,202.5 C491,208.851275 485.851275,214 479.5,214 C473.148725,214 468,208.851275 468,202.5 Z M480.656854,196.843146 L482.071068,198.257359 L477.828427,202.5 L482.071068,206.742641 L480.656854,208.156854 L475,202.5 L480.656854,196.843146 Z"
+         fill="#000000"
+         id="circle-next-arrow-disclosure-glyph"
+         transform="translate(479.500000, 202.500000) scale(-1, 1) translate(-479.500000, -202.500000) "
+         style="fill:#76c221;fill-opacity:1" />
+    </g>
+  </g>
+</svg>

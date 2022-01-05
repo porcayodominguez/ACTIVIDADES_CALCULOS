@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Pro&family=Literata');
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Pro&family=Literata');
+.contenedor-principal
+{
+  width: 900px;
+  margin: 100px auto;
+  font-family: 'PT Serif', serif;
+
+}
+.contenedor-titulo
+{
+  margin: 0;
+  font-weight: bold;
+  padding: 0;
+  background: rgb(249, 82, 0);
+  font-family: 'Baloo Tammudu 2', cursive ;
+  color: rgb(240, 240, 240);
+  font-size: 30px;
+  text-align: center;
+}
+.contenedor-form
+{
+  background: rgb(0, 43, 212);
+  color: rgb(240, 240, 240);
+  font-family: 'PT Serif', serif;
+  font-size: 45px;
+  font-weight: bold;
+  padding: inherit;
+
+}
